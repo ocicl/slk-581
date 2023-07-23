@@ -1,10 +1,10 @@
 * slk-581
 
+Common Lisp library to generate and check Australian Government
+SLK-581 statistical linkage codes.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.com/DataLinkDroid/slk-581.git   |
-| commit  | {"messa  |
-| systems | slk-581 |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------|
+| source  | git:https://gitlab.com/DataLinkDroid/slk-581.git |
+| commit  | 49ed6e4                                          |
+| systems | slk-581                                          |
+|---------+--------------------------------------------------|

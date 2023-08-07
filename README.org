@@ -6,5 +6,5 @@ SLK-581 statistical linkage codes.
 |---------+--------------------------------------------------|
 | source  | git:https://gitlab.com/DataLinkDroid/slk-581.git |
 | commit  | 49ed6e4                                          |
-| systems | slk-581                                          |
+| systems | eclecticse.slk-581                               |
 |---------+--------------------------------------------------|
